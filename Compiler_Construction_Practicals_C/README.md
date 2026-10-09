@@ -1,6 +1,6 @@
 # Compiler Design Practicals in C
 
-This repository contains the first five practical programs from the compiler-design index.
+This repository contains the first four practical programs from the compiler-construction index.
 
 ## Programs
 
@@ -16,7 +16,7 @@ This repository contains the first five practical programs from the compiler-des
 
 ## Compile and run
 
-Run these commands from the project folder. Replace the filename as needed.
+Run these commands from the project folder.
 
 ### Windows (GCC / MinGW)
 

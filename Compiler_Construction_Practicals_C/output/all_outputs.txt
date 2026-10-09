@@ -1,0 +1,31 @@
+01_Fibonacci_Series_Output
+
+Enter number of terms: 8
+Fibonacci Series: 0 1 1 2 3 5 8 13 
+
+02_Macro_Processor_Output
+
+Macro definitions identified:
+----------------------------
+START MACRO
+DISPLAY MACRO
+
+03_Lexical_Analysis_Output
+
+Enter C source code:
+int a=10;
+
+--- Lexical Analysis ---
+int -> KEYWORD
+a -> IDENTIFIER
+= -> OPERATOR
+10 -> CONSTANT
+; -> SPECIAL SYMBOL
+
+04_Arithmetic_Parse_Tree_Output
+
+Expression: a = b + (c * d)
+
+Preorder Traversal:  = a + b * c d 
+Inorder Traversal:   a = b + c * d 
+Postorder Traversal: a b c d * + = 
